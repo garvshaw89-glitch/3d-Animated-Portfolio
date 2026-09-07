@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Top Animated Cyber Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=220&section=header&text=GARV%20SHAW&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20CLOUD%20%E2%80%A2%20CLOUD%20ENGINEERING&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Garv Shaw Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,12,18,24&height=220&section=header&text=GARV%20SHAW&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%E2%80%A2%20API-DEVELOPMENT%20%E2%80%A2%20CLOUD%20ENGINEERING&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Garv Shaw Header Banner" />
 
 <!-- Dynamic Animated Typing SVG Subtitle -->
 <a href="https://git.io/typing-svg">
