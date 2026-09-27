@@ -35,7 +35,7 @@
 <!-- Live Visitor Counter & Social Badges -->
 <p align="center">
   <a href="https://portfoliowebsite-omega-rouge.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LIVE_WEBSITE-portfoliowebsite--garvshaw.vercel.app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
+    <img src="https://img.shields.io/badge/LIVE_WEBSITE-portfoliowebsite--garvshaw.-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio Website" />
   </a>
 </p>
 
